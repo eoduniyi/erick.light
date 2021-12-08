@@ -1,6 +1,6 @@
 # Portfolio
 
-My name is **[Erick Olusoji Oduniyi](https://www.linkedin.com/in/erick-oduniyi-126234156/)**. Here are few things I want you to know about me:
+My name is **[Erick Olusoji Oduniyi](https://www.linkedin.com/in/erick-oduniyi-61112a213/)**. Here are few things I want you to know about me:
 
 * I like listening to people and their stories.
   * I care about humanity deeply.
@@ -10,15 +10,17 @@ My name is **[Erick Olusoji Oduniyi](https://www.linkedin.com/in/erick-oduniyi-1
 
 ## I [🖤](https://emojipedia.org/black-heart/) Data Visualization.
 
-1) [Complex Stimuli B](https://storage.googleapis.com/root-proposal-1246/sketches/complex_stimuli_b.mp4)
+1) [Complex Stimuli A](https://storage.googleapis.com/root-proposal-1246/sketches/sketch3-28-18_a.mp4)
 
-2) [Complex Stimuli A](https://storage.googleapis.com/root-proposal-1246/sketches/sketch3-28-18_a.mp4)
+2) [Complex Stimuli B](https://storage.googleapis.com/root-proposal-1246/sketches/complex_stimuli_b.mp4)
 
 3) [WEDABEST!](https://drive.google.com/file/d/1GhsgvE4CncXAmxbDLPQoKSxcHDQzueCq/view?usp=sharing)
 
-4) [`update_project("CMH Note Network")`](https://storage.googleapis.com/root-proposal-1246/CDR/CDR-CMH-EXAMPLE.mp4)
+4) [CMH Note Network](https://storage.googleapis.com/root-proposal-1246/CDR/CDR-CMH-EXAMPLE.mp4)
 
 5) [In the New Kingdom](https://storage.googleapis.com/root-proposal-1246/Portfolio/GeneralDesign/blm-movie-2.mp4)
+
+6) [3-Lines](https://storage.googleapis.com/root-proposal-1246/sketches/sketch180203a_3lines_short.mp4)
 
 ---
 ## I [🖤](https://emojipedia.org/black-heart/) Writing Documentation.
@@ -61,7 +63,15 @@ My name is **[Erick Olusoji Oduniyi](https://www.linkedin.com/in/erick-oduniyi-1
 ## I [🖤](https://emojipedia.org/black-heart/) User Interface Design!
 
 
-[Design Notes](https://storage.googleapis.com/root-proposal-1246/Portfolio/GeneralDesign/Design_Portfolio-2.pdf) 😘
+1) [Design Notes](https://storage.googleapis.com/root-proposal-1246/Portfolio/GeneralDesign/Design_Portfolio-2.pdf) 😘
+
+2) [belief.button](https://storage.googleapis.com/blessa/sfi/belief_button/docs/index.html)
+
+3) [leaf.engine](https://storage.googleapis.com/root-proposal-1246/leaf/leaf.engine.mp4)
+
+4) [light systems](https://storage.googleapis.com/root-proposal-1246/LIGHT-SYSTEMS/LS_Final.pdf)
+
+5) [one_a_day](https://storage.googleapis.com/root-proposal-1246/LIGHT-SYSTEMS/one_a_day.pdf)
 
 ---
 *làtom,*  
