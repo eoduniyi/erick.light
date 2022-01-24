@@ -73,6 +73,7 @@ My name is **[Erick Olusoji Oduniyi](https://www.linkedin.com/in/erick-oduniyi-6
 
 5) [one_a_day](https://storage.googleapis.com/root-proposal-1246/LIGHT-SYSTEMS/one_a_day.pdf)
 
+6) [region journal](https://regionjournal.github.io/online/)
 ---
 *làtom,*  
 *A Boy from Kansas* 👽 🧠
